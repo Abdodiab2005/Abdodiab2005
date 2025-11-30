@@ -21,23 +21,25 @@
 
 ---
 
+
 ## 🛠️ Favorite Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,html,css,tailwind,ejs,alpinejs,git,github,linux" />
 </p>
 
+
 ---
 
-## 📊 GitHub Stats (Dark Mode)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdodiab2005&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Abdodiab2005&theme=tokyonight&hide_border=true" />
-</p>
+  <img src="https://ghchart.rshah.org/Abdodiab2005" alt="GitHub chart" />
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdodiab2005&layout=compact&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdodiab2005" alt="profile details" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdodiab2005" alt="top languages" />
 </p>
 
 ---
