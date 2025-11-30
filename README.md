@@ -34,10 +34,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Abdodiab2005" alt="GitHub chart" />
-
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdodiab2005" alt="profile details" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Abdodiab2005&theme=tokyonight&hide_border=true" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdodiab2005" alt="top languages" />
 </p>
