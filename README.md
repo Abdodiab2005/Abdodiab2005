@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00EFFF&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Abdelrhman+Diab;Software+Engineer+%7C+Web+Developer;Scraping+%7C+Automation+%7C+WA%2FTG+Bots;Building+SaaS+%26+Smart+Tools" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=00EFFF&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Abdelrhman+Diab;Software+Engineer+%7C+Web+Developer;Scraping+%7C+Automation+%7C+WA+%2F+TG+Bots;Building+SaaS+%26+Smart+Tools" />
 </p>
 
 ---
@@ -32,12 +32,12 @@
 ## 📊 GitHub Stats (Dark Mode)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdodiab2005&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdodiab2005&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdodiab2005&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Abdodiab2005&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdodiab2005&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdodiab2005&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
