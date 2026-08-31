@@ -1,7 +1,9 @@
-<h1 align="center">Abdelrhman Diab</h1>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B1D3A,50:2563EB,100:06B6D4&text=Abdelrhman%20Diab&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer&descSize=18&descAlignY=57" alt="Abdelrhman Diab - Full-Stack Software Engineer">
+</p>
 
 <p align="center">
-  <strong>Full-Stack Software Engineer · Automation · Self-hosted Systems</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=700&color=2563EB&center=true&vCenter=true&width=760&lines=Building+full-stack+web+products;React+%26+Next.js+on+the+frontend;Node.js+%26+TypeScript+on+the+backend;Automation%2C+bots+%26+self-hosted+systems;Founder+of+Leviro" alt="Animated introduction">
 </p>
 
 <p align="center">
