@@ -1,52 +1,55 @@
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=00EFFF&center=true&vCenter=true&width=700&lines=Hi+there+👋+I'm+Abdelrhman+Diab;Software+Engineer+%7C+Web+Developer;Scraping+%7C+Automation+%7C+WA+%2F+TG+Bots;Building+SaaS+%26+Smart+Tools" />
-</p>
-
----
-
-<!-- Simple Coding GIF -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/54/e3/7e/54e37d8074ebcde1d96c77d7b0f2d980.gif" width="420" />
-</p>
-
-<h1 align="center">⚡ About Me</h1>
+<h1 align="center">Abdelrhman Diab</h1>
 
 <p align="center">
-  💼 Software Engineer (Web Dev – Automation – Scraping) <br/>
-  🤖 Developer of WA & Telegram Bots <br/>
-  🚀 Founder of <b>Leviro</b> — Tools • Automation • Digital Services <br/>
-  🎯 Focused on speed, clean backend architecture & security <br/>
+  <strong>Backend Software Engineer · Automation · Self-hosted Systems</strong>
 </p>
-
----
-
-
-## 🛠️ Favorite Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,html,css,tailwind,ejs,alpinejs,git,github,linux" />
+  <a href="https://leviro.net">Leviro</a> ·
+  <a href="https://t.me/Eng_abdo_diab">Telegram</a> ·
+  <a href="https://github.com/Abdodiab2005?tab=repositories">Projects</a>
 </p>
 
+I build backend systems, automation tools, scrapers, bots, and self-hosted
+software with a focus on reliability, security, and practical deployment.
 
----
+I am the founder of **[Leviro](https://leviro.net)**, where I build developer
+tools, automation products, and digital services. My current work centers on
+Node.js and TypeScript backends, PostgreSQL, infrastructure automation, and
+open-source software. I am also expanding my production stack with NestJS and
+Go.
 
-## 📊 GitHub Stats
+## Featured open-source projects
 
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Abdodiab2005&theme=tokyonight&hide_border=true" />
-  <br/>  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdodiab2005&theme=github_dark" />
+| Project | What it does | Core stack |
+| --- | --- | --- |
+| **[Levix](https://github.com/Abdodiab2005/levix)** | Free, self-hosted personal WhatsApp bot with 55 commands, AI, moderation, scheduling, and a web control panel | Node.js, Baileys, SQLite, Express, Docker |
+| **[WhatsApp API](https://github.com/Abdodiab2005/whatsapp-api)** | Self-hosted REST API for WhatsApp channels and private chats with authorization, idempotency, rate limits, and media support | Node.js, Express, Baileys, SQLite |
+| **[Leviro Utils](https://github.com/Abdodiab2005/Leviro-utils)** | Web toolkit with developer and everyday utilities, including PDF, PWA, JSON, and conversion tools | Node.js, Express, EJS, Tailwind CSS |
+
+## Core stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,postgres,mongodb,redis,docker,linux,nginx,git,github,githubactions" alt="TypeScript, JavaScript, Node.js, NestJS, Express, PostgreSQL, MongoDB, Redis, Docker, Linux, nginx, Git, GitHub, and GitHub Actions">
 </p>
 
----
+- **Backend:** Node.js, TypeScript, NestJS, Express, REST APIs, authentication,
+  RBAC, queues, WebSockets, and integrations.
+- **Data:** PostgreSQL, MongoDB, SQLite, and Redis.
+- **Infrastructure:** Docker, Linux, nginx, PM2, GitHub Actions, CI/CD, and
+  self-hosted deployments.
+- **Automation:** Web scraping, Telegram and WhatsApp bots, scheduled jobs, and
+  workflow automation.
+- **Currently expanding:** Go, system design, and scalable backend architecture.
 
-## 🔥 GitHub Activity
+## What I care about
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdodiab2005&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00EFFF&line=0077FF&point=00EFFF" />
+- Shipping software that solves a real operational problem.
+- Clear backend boundaries, safe data handling, and predictable failure modes.
+- Automated verification and deployment that reflect production behavior.
+- Open-source tools that users can run and own themselves.
+
+<p>
+  Open to backend engineering roles, technical collaborations, and focused
+  open-source contributions.
 </p>
-
----
-
-<p align="center">🌙 Crafted with Leviro vibes by <b>Abdelrhman Diab</b> ⚡</p>
