@@ -1,7 +1,7 @@
 <h1 align="center">Abdelrhman Diab</h1>
 
 <p align="center">
-  <strong>Backend Software Engineer · Automation · Self-hosted Systems</strong>
+  <strong>Full-Stack Software Engineer · Automation · Self-hosted Systems</strong>
 </p>
 
 <p align="center">
@@ -10,14 +10,14 @@
   <a href="https://github.com/Abdodiab2005?tab=repositories">Projects</a>
 </p>
 
-I build backend systems, automation tools, scrapers, bots, and self-hosted
-software with a focus on reliability, security, and practical deployment.
+I build full-stack web applications, backend systems, automation tools,
+scrapers, bots, and self-hosted software with a focus on reliability, security,
+and practical deployment.
 
 I am the founder of **[Leviro](https://leviro.net)**, where I build developer
-tools, automation products, and digital services. My current work centers on
-Node.js and TypeScript backends, PostgreSQL, infrastructure automation, and
-open-source software. I am also expanding my production stack with NestJS and
-Go.
+tools, automation products, and digital services. My current work spans
+React and Next.js interfaces, Node.js and TypeScript backends, databases,
+infrastructure automation, and open-source software.
 
 ## Featured open-source projects
 
@@ -30,26 +30,31 @@ Go.
 ## Core stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,postgres,mongodb,redis,docker,linux,nginx,git,github,githubactions" alt="TypeScript, JavaScript, Node.js, NestJS, Express, PostgreSQL, MongoDB, Redis, Docker, Linux, nginx, Git, GitHub, and GitHub Actions">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,nextjs,tailwind&theme=dark" alt="TypeScript, JavaScript, Node.js, NestJS, Express, React, Next.js, and Tailwind CSS">
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux,nginx,git,github,githubactions&theme=dark" alt="PostgreSQL, MongoDB, Redis, Docker, Linux, nginx, Git, GitHub, and GitHub Actions">
 </p>
 
+- **Frontend:** React, Next.js, Tailwind CSS, responsive interfaces, and API
+  integration.
 - **Backend:** Node.js, TypeScript, NestJS, Express, REST APIs, authentication,
-  RBAC, queues, WebSockets, and integrations.
+  RBAC, queues, WebSockets, and third-party integrations.
 - **Data:** PostgreSQL, MongoDB, SQLite, and Redis.
 - **Infrastructure:** Docker, Linux, nginx, PM2, GitHub Actions, CI/CD, and
   self-hosted deployments.
 - **Automation:** Web scraping, Telegram and WhatsApp bots, scheduled jobs, and
   workflow automation.
-- **Currently expanding:** Go, system design, and scalable backend architecture.
 
 ## What I care about
 
-- Shipping software that solves a real operational problem.
-- Clear backend boundaries, safe data handling, and predictable failure modes.
+- Shipping complete products that solve real operational problems.
+- Clear boundaries across the interface, API, data, and infrastructure layers.
+- Safe data handling, predictable failure modes, and maintainable architecture.
 - Automated verification and deployment that reflect production behavior.
 - Open-source tools that users can run and own themselves.
 
 <p>
-  Open to backend engineering roles, technical collaborations, and focused
+  Open to software engineering roles, technical collaborations, and focused
   open-source contributions.
 </p>
